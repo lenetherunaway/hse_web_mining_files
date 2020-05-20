@@ -1,1 +1,1 @@
-# Все ДЗ
+Collection of homeworks in Web-mining
